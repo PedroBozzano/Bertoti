@@ -15,11 +15,13 @@ Em resumo, um programador apenas programa o que foi determinado anteriormente, s
 
 ### TEXTO 2:
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
-*Traduzir e dizer o que entendeu*
+
+### COMENTÁRIO:
 
 ### TRÊS EXEMPLOS DE TRAD-OFFs:
 - Prazo VS Qualidade;
 - Recurso VS Custo;
 - Usabilidade VS Segurança.
 
-### POR QUE
+### POR QUE A GOOGLE CHROME É MAIS UTILIZADA QUE MICROSOFT EDGE?
+Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu desempenho e velocidade na execução da pesquisa, o que difere entre seu concorrente, sem contar em um sistema mais simplificado visualmente para o usuário. Outra característica é a integração com os próprios serviços da google como Gmail, Google Drive, etc, que facilita a utilização do usuário em seu dia a dia.
