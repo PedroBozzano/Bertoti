@@ -25,3 +25,10 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 ### POR QUE A GOOGLE CHROME É MAIS UTILIZADA QUE MICROSOFT EDGE?
 Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu desempenho e velocidade na execução da pesquisa, o que difere entre seu concorrente, sem contar em um sistema mais simplificado visualmente para o usuário. Outra característica é a integração com os próprios serviços da google como Gmail, Google Drive, etc, que facilita a utilização do usuário em seu dia a dia.
+
+## 1 ERRO E 1 ACERTO DE CADA HEURÍSTICA:
+### 1 - Visibilidade de status do sistema:
+  - *ACERTO:* Status de compras e envios de lojas online.
+  - *ERRO:* 
+
+### 2 - 
