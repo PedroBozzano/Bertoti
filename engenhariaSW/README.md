@@ -34,5 +34,7 @@ Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu d
 ### 2 - 
 
 
-## DIAGRAMA UML
+## CASO DE USO UML
 ![image](https://github.com/PedroBozzano/Bertoti/assets/127267429/6caa8dde-af6b-4960-af2d-103ca25c46c8)
+
+## DIAGRAMA DE CLASSES UML
