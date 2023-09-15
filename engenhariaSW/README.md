@@ -1,5 +1,6 @@
 # SOFTWARE ENGINEERING:
 
+## ATIVIDADE 1
 ### TEXTO 1:
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
@@ -17,7 +18,9 @@ Em resumo, um programador apenas programa o que foi determinado anteriormente, s
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 ### COMENTÁRIO:
+Embora a programação seja uma parte fundamental da engenharia de software, é importante fazer uma distinção entre as tarefas de programação (desenvolvimento) e as tarefas de engenharia de software (desenvolvimento, modificação, manutenção). A adição do elemento tempo é crucial para compreender a engenharia de software como um processo mais abrangente do que simplesmente programar. Portanto, conclui-se que engenharia de software não deve ser confundida com programação, pois envolve aspectos adicionais, como planejamento, design, teste e manutenção ao longo do tempo.
 
+## ATIVIDADE 2
 ### TRÊS EXEMPLOS DE TRAD-OFFs:
 - Prazo VS Qualidade;
 - Recurso VS Custo;
@@ -26,7 +29,8 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 ### POR QUE A GOOGLE CHROME É MAIS UTILIZADA QUE MICROSOFT EDGE?
 Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu desempenho e velocidade na execução da pesquisa, o que difere entre seu concorrente, sem contar em um sistema mais simplificado visualmente para o usuário. Outra característica é a integração com os próprios serviços da google como Gmail, Google Drive, etc, que facilita a utilização do usuário em seu dia a dia.
 
-## 1 ERRO E 1 ACERTO DE CADA HEURÍSTICA:
+## ATIVIDADE 3
+### 1 ERRO E 1 ACERTO DE CADA HEURÍSTICA:
 ### 1 - Visibilidade de status do sistema:
   - *ACERTO:* Status de compras e envios de lojas online.
   - *ERRO:* 
@@ -34,7 +38,9 @@ Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu d
 ### 2 - 
 
 
-## CASO DE USO UML
+## ATIVIDADE 4
+### CASO DE USO UML
 ![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/Caso%20de%20Uso%20Loja.png)
 
+## ATIVIDADE 5
 ## DIAGRAMA DE CLASSES UML
