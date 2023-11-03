@@ -77,5 +77,5 @@ Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu d
 
 ## ATIVIDADE 5
 ### DIAGRAMA DE CLASSES UML - LOJA
-![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/imagem_2023-11-01_195916416.png)
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/DiagramaUML.png)
 
