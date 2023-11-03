@@ -1,4 +1,5 @@
 # SOFTWARE ENGINEERING:
+Bem vindo a este meu repositório. O objetivo dele é registrar todas atividades da matéria de engenharia de software e juntamente registrar meus avanços e estudos sobre linguagens de programação e desenvolvimento. A seguir estarão atividades desenvolvidas em meus estudos e anotações.
 | ATIVIDADES |
 |------------|
 | [ATIVIDADE 1](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-1) |
