@@ -1,14 +1,14 @@
 # SOFTWARE ENGINEERING:
 Bem vindo a este meu repositório. O objetivo dele é registrar todas atividades da matéria de engenharia de software e juntamente registrar meus avanços e estudos sobre linguagens de programação e desenvolvimento. A seguir estarão atividades desenvolvidas em meus estudos e anotações.
-| ATIVIDADES |
-|------------|
-| [ATIVIDADE 1](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-1) |
-| [ATIVIDADE 2](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-2) |
-| [ATIVIDADE 3](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-3) |
-| [ATIVIDADE 4](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-4) |
-| [ATIVIDADE 5](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-5) |
-| [ATIVIDADE 6](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-6) |
-| [ATIVIDADE 7](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-7) |
+| ATIVIDADES | DESCRIÇÃO |
+|------------|------------------------------------|
+| [ATIVIDADE 1](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-1) | Resumos dos textos com análise e interpretação |
+| [ATIVIDADE 2](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-2) | Exemplos de TRADE-OFFs |
+| [ATIVIDADE 3](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-3) | 1 Erro e 1 Acerto em cada uma das 10 Heurísticas de Nielsen |
+| [ATIVIDADE 4](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-4) | Diagrama de Caso de Uso |
+| [ATIVIDADE 5](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-5) | Diagrama de Classes UML |
+| [ATIVIDADE 6](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-6) | Código Java Espelhado ao diagrama de classes UML |
+| [ATIVIDADE 7](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-7) | Código Java de Teste JUNIT |
 
 ## ATIVIDADE 1
 ### TEXTO 1:
@@ -40,7 +40,7 @@ Embora a programação seja uma parte fundamental da engenharia de software, é 
 Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu desempenho e velocidade na execução da pesquisa, o que difere entre seu concorrente, sem contar em um sistema mais simplificado visualmente para o usuário. Outra característica é a integração com os próprios serviços da google como Gmail, Google Drive, etc, que facilita a utilização do usuário em seu dia a dia.
 
 ## ATIVIDADE 3
-### 1 ERRO E 1 ACERTO DE CADA HEURÍSTICA:
+### 1 ERRO E 1 ACERTO DE CADA HEURÍSTICA DE NIELSEN:
 ### 1 - Visibilidade de status do sistema:
   - *Acerto:* Um sistema de email exibe uma mensagem de "Enviando..." com uma barra de progresso quando um email está sendo enviado, fornecendo feedback claro ao usuário sobre o estado da operação.
   - *Erro:* Um aplicativo de pagamento não fornece feedback após o usuário tentar efetuar um pagamento, deixando o usuário incerto sobre se a transação foi concluída com sucesso ou não.
