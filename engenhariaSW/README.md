@@ -1,4 +1,13 @@
 # SOFTWARE ENGINEERING:
+| ATIVIDADES |
+|------------|
+| [ATIVIDADE 1](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-1) |
+| [ATIVIDADE 2](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-2) |
+| [ATIVIDADE 3](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-3) |
+| [ATIVIDADE 4](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-4) |
+| [ATIVIDADE 5](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-5) |
+| [ATIVIDADE 6](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-6) |
+| [ATIVIDADE 7](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-7) |
 
 ## ATIVIDADE 1
 ### TEXTO 1:
@@ -78,4 +87,18 @@ Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu d
 ## ATIVIDADE 5
 ### DIAGRAMA DE CLASSES UML - LOJA
 ![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/DiagramaUML.png)
+
+## ATIVIDADE 6
+### CÓDIGO JAVA ESPELHADO AS CLASSES UML - LOJA
+Código feito em linguagem Java espelhado ao diagrama de classes UML da aplicação de uma loja simples.
+
+Pasta: *TesteUMLExerc6*
+
+## ATIVIDADE 7
+### CÓDIGO DE TESTE DA ATIVIDADE 6 - JUNIT
+Código criado com o Framework Junit com o objetivo de testar todas classes do código desenvolvido na atividade 6.
+
+Pasta: *TesteUMLExerc6*
+
+Arquivo: *TesteJunit.java*
 
