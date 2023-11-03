@@ -1,7 +1,7 @@
 # SOFTWARE ENGINEERING:
 | ATIVIDADES |
 |------------|
-| [ATIVIDADE 1](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-1) |
+| [ATIVIDADE 1](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/README.md#atividade-1) |
 | [ATIVIDADE 2](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-2) |
 | [ATIVIDADE 3](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-3) |
 | [ATIVIDADE 4](https://github.com/PedroBozzano/Bertoti/edit/main/engenhariaSW/README.md#atividade-4) |
