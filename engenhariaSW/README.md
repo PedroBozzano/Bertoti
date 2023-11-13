@@ -101,5 +101,5 @@ Código criado com o Framework Junit com o objetivo de testar todas classes do c
 
 Pasta: *TesteUMLExerc6*
 
-Arquivo: *TesteJunit.java*
+Arquivo: *VendaTest.java*
 
