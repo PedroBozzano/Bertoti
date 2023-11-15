@@ -39,6 +39,12 @@ Embora a programação seja uma parte fundamental da engenharia de software, é 
 ### POR QUE A GOOGLE CHROME É MAIS UTILIZADA QUE MICROSOFT EDGE?
 Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu desempenho e velocidade na execução da pesquisa, o que difere entre seu concorrente, sem contar em um sistema mais simplificado visualmente para o usuário. Outra característica é a integração com os próprios serviços da google como Gmail, Google Drive, etc, que facilita a utilização do usuário em seu dia a dia.
 
+### POR QUE UTILIZAR PACOTE OFFICE DA MICROSOFT AO INVÉS DA CONCORRÊNCIA GRATUITA COMO LIBREOFFICE?
+O Pacote Office é um plano feito por assinatura, onde deve ser pago mensalmente ou anualmente. E nele você libera diversos serviços e ferramentas que auxiliam na sua rotina de trabalho. Neste caso a aplicação do plano não necessáriamente é melhor ou pior, esta resposta irá mudar de acordo com a situação. O Pacote Office é muito utilizado em empresas, pois o ele oferece opções que facilitam o trabalho, como salvamento em nuvem, possibilidade de compartilhamento de conta, trabalho cooperativo em tempo real, atualizações de segurança constantes, etc. Diferente de outros concorrentes que fornecem as ferramentas de forma gratuita, porém não possuem muitas vezes algumas destas vantagens ou até mesmo nenhuma destas vantagens.
+
+### POR QUE UTILIZAR O 99POP AO INVÉS DA UBER?
+Estes dois são serviços de corridas bem famosos no país, porém há algumas diferenças em cada um que te torna mais propenso a utilizar um ao invés do outro. A Uber possuí uma gama maior de variedade de serviços e opções de corridas, como uber corrida, uber entregas, uber supermecado, programa de fidelidade e compartilhamento de viagens, além disso oferece seguro ao contra danos e apoio ao passageiro e/ou motorista. Já a 99POP possuí serviços de corrida, entregas, taxi, mas o seguro cobre apenas o motorista. A área de atendimento da Uber é por pouco mais de 500 cidades no Brasil, já a 99POP é mais abrangente, atendendo mais de 1000 cidades no Brasil, sendo mais provável ter um motorista da 99POP em uma cidade de interior do que um Uber e além disso, a média de valor por corrida é mais barata pela 99POP do que pela Uber, tornando assim muitas vezes mais utilizado o serviço da 99POP no país do que do Uber.
+
 ## ATIVIDADE 3
 ### 1 ERRO E 1 ACERTO DE CADA HEURÍSTICA DE NIELSEN:
 ### 1 - Visibilidade de status do sistema:
@@ -58,7 +64,7 @@ Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu d
   - *Erro:* Um conjunto de aplicativos de uma empresa não segue um padrão de design, resultando em diferentes layouts, ícones e fluxos de trabalho em cada aplicativo, causando confusão para os usuários.
 
 ### 5 - Prevenção de erros:
-  - *Acerto:* Um sistema de reserva de voos solicita a confirmação do usuário antes de finalizar uma reserva, evitando que erros de reserva sejam feitos inadvertidamente.
+  - *Acerto:* Um sistema de compra online solicita a confirmação do usuário antes de finalizar uma compra, evitando que erros de compra sejam feitos inadvertidamente.
   - *Erro:* Um sistema de gerenciamento de documentos não solicita confirmação antes de excluir permanentemente um arquivo, permitindo que os usuários cometam erros irreversíveis.
 
 ### 6 - Reconhecimento em vez de memorização:
@@ -87,7 +93,7 @@ Basicamente, o Google Chrome é líder dos serviços de pesquisa devido ao seu d
 
 ## ATIVIDADE 5
 ### DIAGRAMA DE CLASSES UML - LOJA
-![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/DiagramaUML.png)
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/DiagramaUML2.png)
 
 ## ATIVIDADE 6
 ### CÓDIGO JAVA ESPELHADO AS CLASSES UML - LOJA
