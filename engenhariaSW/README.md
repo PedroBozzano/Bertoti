@@ -51,41 +51,65 @@ Estes dois são serviços de corridas bem famosos no país, porém há algumas d
   - *Acerto:* Um sistema de email exibe uma mensagem de "Enviando..." com uma barra de progresso quando um email está sendo enviado, fornecendo feedback claro ao usuário sobre o estado da operação.
   - *Erro:* Um aplicativo de pagamento não fornece feedback após o usuário tentar efetuar um pagamento, deixando o usuário incerto sobre se a transação foi concluída com sucesso ou não.
 
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/EmailEnviando.png)
+
 ### 2 - Correspondência entre o sistema e o mundo real:
   - *Acerto:* Um aplicativo de mapeamento utiliza ícones de mapa, como uma imagem de um alfinete, para representar localizações no mundo real, tornando a interface facilmente compreensível.
   - *Erro:* Um aplicativo de edição de texto usa terminologia técnica obscura e abreviações que não correspondem ao conhecimento comum do usuário, tornando difícil entender as funções.
+
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/Mapa.png)
 
 ### 3 - Controle e liberdade do usuário:
   - *Acerto:* Um sistema de gerenciamento de arquivos permite que os usuários desfaçam a exclusão de um arquivo acidental, oferecendo uma opção "Restaurar" imediatamente após a exclusão.
   - *Erro:* Um aplicativo de compras online não permite que os usuários modifiquem ou cancelem um pedido após clicar no botão "Comprar", sem nenhuma opção de revisão ou cancelamento.
 
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/EmailDesfazer.png)
+
 ### 4 - Consistência e padrões:
   - *Acerto:* Um sistema operacional mantém uma aparência e comportamento consistentes em todos os aplicativos, usando uma barra de menu no topo da tela em todos eles, facilitando a navegação.
   - *Erro:* Um conjunto de aplicativos de uma empresa não segue um padrão de design, resultando em diferentes layouts, ícones e fluxos de trabalho em cada aplicativo, causando confusão para os usuários.
+
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/Excel.png)
+
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/powerpoint.png)
+
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/word.png)
 
 ### 5 - Prevenção de erros:
   - *Acerto:* Um sistema de compra online solicita a confirmação do usuário antes de finalizar uma compra, evitando que erros de compra sejam feitos inadvertidamente.
   - *Erro:* Um sistema de gerenciamento de documentos não solicita confirmação antes de excluir permanentemente um arquivo, permitindo que os usuários cometam erros irreversíveis.
 
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/Confirma%C3%A7%C3%A3omercadolivre.jpeg)
+
 ### 6 - Reconhecimento em vez de memorização:
   - *Acerto:* Um aplicativo de senha exibe dicas de senha enquanto o usuário cria uma senha, ajudando a lembrar critérios específicos, como usar maiúsculas e números.
   - *Erro:* Um sistema de pagamento força os usuários a memorizar um número de cartão de crédito em vez de permitir que eles salvem e selecionem cartões previamente usados.
+
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/Senha.png)
 
 ### 7 - Flexibilidade e eficiência de uso:
   - *Acerto:* Um software de edição de imagem oferece atalhos de teclado para operações comuns, permitindo que usuários experientes realizem tarefas rapidamente.
   - *Erro:* Um aplicativo de edição de texto não oferece atalhos de teclado ou opções avançadas, forçando todos os usuários a seguir um fluxo básico, tornando-o ineficiente para usuários experientes.
 
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/Atalhos.png)
+
 ### 8 - Estética e design minimalista:
   - *Acerto:* Um aplicativo de organização de tarefas apresenta uma interface limpa e simples, focando nas tarefas em si, sem distrações visuais.
   - *Erro:* Um site de notícias sobrecarrega sua página com anúncios e pop-ups, dificultando a leitura do conteúdo principal e prejudicando a experiência do usuário.
+
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/Notas.png)
 
 ### 9 - Ajuda e documentação:
   - *Acerto:* Um aplicativo de software inclui um centro de ajuda interativo que fornece respostas às perguntas dos usuários e tutoriais em vídeo.
   - *Erro:* Um site de comércio eletrônico não oferece informações claras sobre como retornar produtos ou entrar em contato com o suporte ao cliente, deixando os usuários sem recursos quando têm problemas.
 
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/AjudaExcel.png)
+
 ### 10 - Recuperação de erros:
   - *Acerto:* Um aplicativo de processamento de texto fornece uma mensagem de erro explicando que um arquivo não pode ser salvo devido à falta de espaço em disco, juntamente com sugestões para liberar espaço.
   - *Erro:* Um aplicativo de edição de imagem exibe uma mensagem de erro genérica quando ocorre uma falha na operação, sem fornecer orientações sobre como resolver o problema.
+
+![image](https://github.com/PedroBozzano/Bertoti/blob/main/engenhariaSW/img/memoria-espaco-em-disco-insuficiente-word-5.png)
 
 ## ATIVIDADE 4
 ### DIAGRAMA DE CASO DE USO UML - LOJA
