@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ControllerBeer {
 
     Set<Beer> list = new LinkedHashSet<>();  
-    static Integer id = 1;
+    Integer id = 1;
     @GetMapping
     public Set<Beer> listaCerveja(){
         return list;

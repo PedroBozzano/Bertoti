@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuperBeer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+        }
+        input[type="submit"] {
+            padding: 10px 20px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>SuperBeer</h1>
+
+    <!-- Formulário para listar cervejas -->
+    <form id="getBeerForm">
+        <h2>Listar Cervejas</h2>
+        <input type="submit" value="Listar Cervejas">
+    </form>
+    <div id="beerList"></div>
+
+    <!-- Formulário para adicionar cerveja -->
+    <form id="postBeerForm">
+        <h2>Adicionar Cerveja</h2>
+        <label for="marca">Marca:</label>
+        <input type="text" id="marca" name="marca" required>
+        
+        <label for="valor">Valor:</label>
+        <input type="number" step="0.01" id="valor" name="valor" required>
+        
+        <label for="volume">Volume:</label>
+        <input type="number" step="0.01" id="volume" name="volume" required>
+        
+        <input type="submit" value="Adicionar Cerveja">
+    </form>
+
+    <!-- Formulário para atualizar cerveja -->
+    <form id="putBeerForm">
+        <h2>Atualizar Cerveja</h2>
+        <label for="marca">Marca:</label>
+        <input type="text" id="marca" name="marca" required>
+        
+        <label for="valor">Valor:</label>
+        <input type="number" step="0.01" id="valor" name="valor" required>
+        
+        <label for="volume">Volume:</label>
+        <input type="number" step="0.01" id="volume" name="volume" required>
+        
+        <input type="submit" value="Atualizar Cerveja">
+    </form>
+
+    <!-- Formulário para deletar cerveja -->
+    <form id="deleteBeerForm">
+        <h2>Deletar Cerveja</h2>
+        <label for="deleteId">ID:</label>
+        <input type="number" id="deleteId" name="id" required>
+        
+        <input type="submit" value="Deletar Cerveja">
+    </form>
+
+    <script>
+        document.getElementById('getBeerForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            fetch('/test')
+                .then(response => response.json())
+                .then(data => {
+                    const list = document.getElementById('beerList');
+                    list.innerHTML = '<h3>Lista de Cervejas:</h3>';
+                    data.forEach(beer => {
+                        list.innerHTML += `<p>ID: ${beer.id}, Marca: ${beer.marca}, Valor: ${beer.valor}, Volume: ${beer.volume}</p>`;
+                    });
+                });
+        });
+
+        document.getElementById('postBeerForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData(event.target);
+            const data = {
+                marca: formData.get('marca'),
+                valor: formData.get('valor'),
+                volume: formData.get('volume')
+            };
+            fetch('/test', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            }).then(response => {
+                if (response.ok) {
+                    alert('Cerveja adicionada com sucesso!');
+                }
+            });
+        });
+
+        document.getElementById('putBeerForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData(event.target);
+            const data = {
+                marca: formData.get('marca'),
+                valor: formData.get('valor'),
+                volume: formData.get('volume')
+            };
+            fetch('/test', {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            }).then(response => {
+                if (response.ok) {
+                    alert('Cerveja atualizada com sucesso!');
+                }
+            });
+        });
+
+        document.getElementById('deleteBeerForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const id = document.getElementById('deleteId').value;
+            fetch(`/test/${id}`, {
+                method: 'DELETE'
+            }).then(response => {
+                if (response.ok) {
+                    alert('Cerveja deletada com sucesso!');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
