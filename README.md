@@ -1,4 +1,4 @@
-![image](https://github.com/PedroBozzano/Bertoti/assets/127267429/b7c3f4e4-e5e9-4e50-9458-b1e05adb9d5c)# Matérias:
+# Matérias:
 ## [Engenharia de Software](https://github.com/PedroBozzano/Bertoti/tree/main/engenhariaSW)<br><br>
 
 ## [Laboratório de desenvolvimento III](https://github.com/PedroBozzano/Bertoti/tree/main/LabDevIII/BeerCrud/SuperBeer)
